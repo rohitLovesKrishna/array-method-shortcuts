@@ -8,7 +8,6 @@
         return eval("item." + comparisionBoolTrueOrFalse)
     })
 }
-
 module.exports = {
     universalFilter,
     DELETE,
