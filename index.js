@@ -5,6 +5,7 @@
 }
  const universalFilter = (anyArrayInUseStateAsInitialArray = [], comparisionBoolTrueOrFalse = '') => {
     return anyArrayInUseStateAsInitialArray.filter((item) => {
+           // eslint-disable-next-line
         return eval("item." + comparisionBoolTrueOrFalse)
     })
 }
