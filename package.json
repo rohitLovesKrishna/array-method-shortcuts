@@ -1,6 +1,6 @@
 {
   "name": "@rohitambawata9716/array-method-shortcuts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package helps you in saving your time while working on big projects as because of this npm package now you don't need to write that return statement for every array method this would be taken care of by this package.For more details read README.md.",
   "main": "index.js",
   "scripts": {
