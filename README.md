@@ -16,6 +16,8 @@
 # 1. `DELETE` method usage
 `In short it is a filter  method`
 `Theory:`This method is useful in those situations where we want to `remove` an item of the array(data provided by database or any data.js file holds an array of objects or simple array) whenever someone `clicked` on that item. 
+
+### Editor work
 ``Example``: const data = [{id:0,name:'dummy1'},{{id:1,name:'dummy2'}}] etc.
 This dummy array holds 2 Objects.
 `Functional Component:`
